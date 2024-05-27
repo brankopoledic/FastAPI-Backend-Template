@@ -1,12 +1,12 @@
 <h1 align=center><strong>FastAPI Backend Application Template</strong></h1>
 
 <div align=center>
- <a href="https://github.com/Aeternalis-Ingenium/FastAPI-Backend-Template/actions/workflows/ci-backend.yaml">
-  <img src="https://github.com/Aeternalis-Ingenium/FastAPI-Backend-Template/actions/workflows/ci-backend.yaml/badge.svg"/> 
+ <a href="https://github.com/brankopoledic/FastAPI-Backend-Template/actions/workflows/ci-backend.yaml">
+  <img src="https://github.com/brankopoledic/FastAPI-Backend-Template/actions/workflows/ci-backend.yaml/badge.svg"/> 
  </a>
 
- <a href="https://codecov.io/gh/Aeternalis-Ingenium/FastAPI-Backend-Template">
-  <img src="https://codecov.io/gh/Aeternalis-Ingenium/FastAPI-Backend-Template/branch/trunk/graph/badge.svg?token=1hiVayuLRl"/> 
+ <a href="https://codecov.io/gh/brankopoledic/FastAPI-Backend-Template">
+  <img src="https://codecov.io/gh/brankopoledic/FastAPI-Backend-Template/branch/trunk/graph/badge.svg?token=1hiVayuLRl"/> 
  </a>
 
  <a href="https://github.com/pre-commit/pre-commit">
@@ -118,7 +118,7 @@ For the team development environment:
 
 ## Setup Guide
 
-This backend application is setup with `Docker`. Nevertheless, you can see the full local setup without `Docker` in [backend/README.md](https://github.com/Aeternalis-Ingenium/FastAPI-Backend-Template/blob/trunk/backend/README.md).
+This backend application is setup with `Docker`. Nevertheless, you can see the full local setup without `Docker` in [backend/README.md](https://github.com/brankopoledic/FastAPI-Backend-Template/blob/trunk/backend/README.md).
 
 1. Before setting up the backend app, please create a new directory called `coverage` for the testing report purpose:
    ```shell
