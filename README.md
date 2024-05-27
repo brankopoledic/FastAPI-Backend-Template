@@ -1,4 +1,4 @@
-<h1 align=center><strong>FastAPI Backend Application Template</strong></h1>
+<h1 align=center><strong>FastAPI Backend Application</strong></h1>
 
 <div align=center>
  <a href="https://github.com/brankopoledic/FastAPI-Backend-Template/actions/workflows/ci-backend.yaml">
